@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_application">
+    <sys_app_application action="DELETE">
+        <active>true</active>
+        <category display_value="Custom Applications">e0355b31ef303000a61d5a3615c0fb78</category>
+        <description/>
+        <device_type>browser</device_type>
+        <hint/>
+        <name/>
+        <order>100</order>
+        <roles>x_cdltd_loaner_req.admin</roles>
+        <sys_class_name>sys_app_application</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-11-27 08:32:47</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>155df5a858f4a0107f4430b01b3f8a6e</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>Loaner Admins</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Loaner Request" source="x_cdltd_loaner_req">c18f2bb358a060107f4430b01b3f8a32</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Loaner Request">c18f2bb358a060107f4430b01b3f8a32</sys_scope>
+        <sys_update_name>sys_app_application_155df5a858f4a0107f4430b01b3f8a6e</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-11-27 08:33:07</sys_updated_on>
+        <title>Loaner Admins</title>
+        <view_name/>
+    </sys_app_application>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Loaner Request">c18f2bb358a060107f4430b01b3f8a32</application>
+        <file_path/>
+        <instance_id>e920a39b1ba4e81064e9beef034bcbb9</instance_id>
+        <instance_name>adf-nov-108-dev-003</instance_name>
+        <name>sys_app_application_155df5a858f4a0107f4430b01b3f8a6e</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_application"><sys_app_application action="INSERT_OR_UPDATE"><active>true</active><category display_value="Custom Applications">e0355b31ef303000a61d5a3615c0fb78</category><description/><device_type>browser</device_type><hint/><name/><order>100</order><roles>x_cdltd_loaner_req.admin</roles><sys_class_name>sys_app_application</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2020-11-27 08:32:47</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>155df5a858f4a0107f4430b01b3f8a6e</sys_id><sys_mod_count>1</sys_mod_count><sys_name>Loaner Admins</sys_name><sys_overrides/><sys_package display_value="Loaner Request" source="x_cdltd_loaner_req">c18f2bb358a060107f4430b01b3f8a32</sys_package><sys_policy/><sys_scope display_value="Loaner Request">c18f2bb358a060107f4430b01b3f8a32</sys_scope><sys_update_name>sys_app_application_155df5a858f4a0107f4430b01b3f8a6e</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-11-27 08:33:07</sys_updated_on><title>Loaner Admins</title><view_name/></sys_app_application></record_update>]]></payload>
+        <payload_hash>-2060583062</payload_hash>
+        <record_name>Loaner Admins</record_name>
+        <reverted_from/>
+        <source>71937b7758a060107f4430b01b3f8aee</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-11-27 08:33:07</sys_created_on>
+        <sys_id>337d39a858f4a0107f4430b01b3f8a66</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>17608d5a3cb0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-11-27 08:33:07</sys_updated_on>
+        <type>Application Menu</type>
+        <update_guid>7b7d39a8c3f4a010b69da37880c61365</update_guid>
+        <update_guid_history>7b7d39a8c3f4a010b69da37880c61365:-2060583062,7e6d39a86ff4a0103f453d5dced7f528:1453218822</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Loaner Admins">e6ad3da858f4a0107f4430b01b3f8a12</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-11-27 08:33:51</sys_created_on>
+        <sys_db_object display_value="" name="sys_app_application">sys_app_application</sys_db_object>
+        <sys_id>828b1d7a300747be8b449585256b6104</sys_id>
+        <sys_metadata>155df5a858f4a0107f4430b01b3f8a6e</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Loaner Admins</sys_name>
+        <sys_package display_value="Loaner Request" source="x_cdltd_loaner_req">c18f2bb358a060107f4430b01b3f8a32</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Loaner Request">c18f2bb358a060107f4430b01b3f8a32</sys_scope>
+        <sys_scope_delete display_value="">679d99d2099043249d5926f09bbb4190</sys_scope_delete>
+        <sys_update_name>sys_app_application_155df5a858f4a0107f4430b01b3f8a6e</sys_update_name>
+        <sys_update_version display_value="sys_app_application_155df5a858f4a0107f4430b01b3f8a6e">337d39a858f4a0107f4430b01b3f8a66</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-11-27 08:33:51</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
